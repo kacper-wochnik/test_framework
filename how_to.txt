@@ -1,0 +1,7 @@
+...how to...
+
+1. Please download uploaded test_framework.zip file
+2. Unpack it and import as existing maven project (I would recommmend latest mvn & JDK)
+3. To run single test using command line, when in project location use: mvn -Dtest=First_test test
+
+In terms of any issues please see attached recording
